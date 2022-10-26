@@ -1,9 +1,10 @@
 import React from "react";
 
+
 function CartWidget() {
     return(
         <div>
-            x
+            <i class="fa-solid fa-cart-shopping"></i>
         </div>
     )
 }
